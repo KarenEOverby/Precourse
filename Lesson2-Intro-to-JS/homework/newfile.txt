@@ -1,0 +1,29 @@
+1. Feynman Writing Prompts - In a seprate text file that you create, write out 
+explanations of the following concepts like you are explaining it to a 12 year old. 
+Doing this will help you quickly discover any holes in your understanding.  
+Ask your questions on Slack.
+		
+	* Variables
+	* Strings
+	* Functions (arguments, `return`)
+	* `if` statements
+	* Boolean values (`true`, `false`)
+
+A Variable is something that can be changed. If you want to make a sandwhich, a Variable
+of the sandwhich can be the kind of meat, to type of bread. It can be changed to make
+a different sandwhich.
+
+Strings are lines of text. Each line of words on the page of a favorite book are Strings
+within that book.
+
+Functions are a way of writing instructions without having to write them over and over. 
+A function an change depending on what variable is used. When you change the variable (arguemnt),
+the outcome (return) is changed as well.
+
+'if' statements are instructions that are dependent on a certain input (or event). 
+For example. 'if' your room is clean, you can play. If not (else), you must clean
+your room.
+
+Boolean values mean simply yes (true) or no (false). There is no in between. In the words
+of Katy Perry, you're either yes or you're no, your hot or you're cold, you're in or your out,
+you're up or your down.
