@@ -1,0 +1,20 @@
+1. Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old.  
+Doing this will help you quickly discover any holes in your understanding.  Ask your questions on Slack.
+		
+	* `for`
+	* `&&`, `||`, `!`
+	* Arrays
+The 'for' loop is a way to make something go over and over again. Everytime the forloop runs,
+it creates a different value, so it is essentially adding on itself until it reaches a certain
+value. Once it reaches that value, the loop stops.
+
+'&&' is JavaScript's way of identifying that two conditions must be met. For example, in order to 
+have ice cream tonight for desert, you must eat chicken && corn. It cannot be one or the other.
+However, || identifies that the requirements are one or the other. Refrencing the previous example,
+in order to have ice cream for desert, chicken || corn must be eaten. As long as one of the conditions
+are met, the value will be true. Finally, ! indicates "not". If you want ice cream for dinner, chicken !corn must
+be eaten (You must eat your chicken, but you cannot eat your corn).
+
+Arrays are a way of keeping multiple values within a single variable. For example, if someone had multiple phone numbers,
+you can use an array to keep track of all the phone numbers a person has. When you access that array, it will bring up all 
+the phone numbers stored within. 
